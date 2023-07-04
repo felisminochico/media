@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+/* Configurações para dispositivos em pé */
+
+body{
+    background-color: #8080d0;
+    background: url(retrato.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+h1{
+    color: rgb(88, 84, 24);
+}
+
+h2{
+    padding: 20px;
+    color: rgb(121, 27, 20);
+}
+
+#deitado{
+    display: none;
+}

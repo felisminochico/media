@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+/* Configurações para dispositivos deitado */
+
+body{
+    background-color: rgb(158, 158, 158);
+    background: url(paisagem.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+h1{
+    color: rgb(31, 31, 124);
+}
+
+h2#deitado{
+    padding: 20px;
+    color: black;
+}
+
+#pe{
+    display: none;
+}

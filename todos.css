@@ -10,7 +10,10 @@
 
 html, body{
     width: 100vw;
-    height: 90vh;
+    height: 100vh;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 h1{

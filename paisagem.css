@@ -4,8 +4,7 @@
 
 body{
     background-color: rgb(158, 158, 158);
-    background: url(paisagem.jpg) no-repeat center center;
-    background-size: cover;
+    background-image: url(paisagem.jpg);
 }
 
 h1{
